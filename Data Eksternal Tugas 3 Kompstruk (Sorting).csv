@@ -1,11 +1,11 @@
-Nama mahasiswa,Nomor peserta,Nilai,Keterangan
-Lista,2009345612,97.5,Lulus
-Nani,1932431256,98.7,Lulus
-Syach,2193201232,96.75,Lulus
-Nikson,2987345267,98.99,Lulus
-Tasnim,2091346271,98.75,Lulus
-Alan,2176876534,95.75,Lulus
-Wulan,2109387261,96.25,Lulus
-Chita,2390876543,93.27,Lulus
-Lenni,2109872345,95.45,Lulus
-Farhan,2409456723,97.34,Lulus
+Nama mahasiswa,Nomor peserta,Nilai kuis,Nilai UAS,Keterangan
+Lista,2009345612,97.5,95.75,Lengkap
+Nani,1932431256,98,95,Lengkap
+Syach,2193201232,96.75,Kosong,Belum mengikuti UAS
+Nikson,2987345267,98.99,96.4,Lengkap
+Tasnim,2091346271,98.75,87.5,Lengkap
+Alan,2176876534,95.75,90.25,Lengkap
+Wulan,2109387261,96,98.35,Lengkap
+Chita,2390876543,93,89.5,Lengkap
+Lenni,2109872345,95.45,Kosong,Belum mengikuti UAS
+Farhan,2409456723,97,90.3,Lengkap
